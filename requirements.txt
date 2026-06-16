@@ -1,0 +1,13 @@
+numpy
+pandas
+pyarrow
+scikit-learn
+scipy
+lightgbm
+catboost
+xarray
+netCDF4
+requests
+tqdm
+joblib
+psutil
